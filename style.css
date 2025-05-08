@@ -41,6 +41,14 @@ body {
   gap: 2rem;
 }
 
+.foto-perfil img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
 .descricao {
   max-width: 600px;
 }
